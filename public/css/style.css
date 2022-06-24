@@ -1,0 +1,52 @@
+body {
+    padding: 0%;
+    padding-top: 15pt;
+    color: #e0e4cc;
+    font-size: 1.2em;
+    line-height: 1.6;
+    background: -moz-linear-gradient(0deg, hsla(162, 72%, 18%, 1) 0%, hsla(162, 74%, 9%, 1) 84%);
+    overflow-x: hidden;
+}
+
+.nav-bg {
+
+    background: #13795B;
+}
+
+.note-bg {
+    background: #75B798;
+}
+
+@media only screen and (max-width: 600px) {
+    .font-note {
+        font-size: 15px;
+        color: black;
+    }
+
+    .font-date {
+        font-size: 10px;
+        color: black;
+    }
+
+    .note-sm {
+        padding: 0%;
+        margin: 0%;
+    }
+
+    .px-sm-note {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .font-note {
+        font-size: 15px;
+        color: black;
+    }
+
+    .font-date {
+        font-size: 10px;
+        color: black;
+    }
+}
