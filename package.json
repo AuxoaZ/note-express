@@ -2,12 +2,10 @@
   "name": "to_do_list",
   "version": "1.0.0",
   "description": "to do list app",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-<<<<<<< HEAD
     "start": "node index.js "
-=======
   },
   "author": "viaN",
   "license": "ISC",
